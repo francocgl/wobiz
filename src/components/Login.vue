@@ -16,9 +16,6 @@ export default {
   components : {
     LoginForm,
     LoginRightHero
-  },
-  props: {
-    msg: String
   }
 }
 </script>
